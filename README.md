@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hieu Minh Pham 
 
-<!--
-**Minhhieu1001/Minhhieu1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Backend / Fullstack Developer
 
-Here are some ideas to get you started:
+## 🛠 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,postgres,mongodb,docker,redis,kafka,git,github,tailwind,vscode,idea,postman,aws" />
+</p>
+
+##  Featured Projects
+
+### Career Connect
+Recruitment platform built with Spring Boot and Microservices architecture.
+
+### Zelo OOT
+Real-time messaging platform with Socket.io and WebRTC.
+
+##  Contact
+
+📧 Email: hieuminhpham1001@gmail.com  
+💻 GitHub: github.com/Minhhieu1001
