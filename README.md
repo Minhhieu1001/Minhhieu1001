@@ -94,26 +94,6 @@ life_motto: "Code is like humor. When you have to explain it, it's bad."
 
 <div align="center">
 
-<!-- Project Card 1: Career Connect Backend -->
-<a href="https://github.com/khongtam12/career-connect-backend">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongtam12&repo=career-connect-backend&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-</a>
-&nbsp;
-<!-- Project Card 2: Career Connect Frontend -->
-<a href="https://github.com/khongtam12/career-connect-frontend">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongtam12&repo=career-connect-frontend&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-</a>
-
-<br/><br/>
-
-<!-- Project Card 3: ZELO -->
-<a href="https://github.com/thienper/ZELO">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thienper&repo=ZELO&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-</a>
-
-</div>
-
-<br/>
 
 <table>
 <tr>
@@ -180,16 +160,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad."
 
 ##  GitHub Analytics
 
-<div align="center">
-
 <!-- GitHub Stats -->
-<a href="https://github.com/Minhhieu1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minhhieu1001&show_icons=true&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true&hide_border=false"/>
-</a>
-&nbsp;
-<a href="https://github.com/Minhhieu1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhhieu1001&layout=compact&theme=radical&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false"/>
-</a>
 
 <br/><br/>
 
@@ -205,14 +176,6 @@ life_motto: "Code is like humor. When you have to explain it, it's bad."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhhieu1001&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=false&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-##  GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Minhhieu1001&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
