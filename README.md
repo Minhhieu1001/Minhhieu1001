@@ -95,14 +95,21 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 
 <div align="center">
 
-<!-- Project Card 1: Career Connect -->
-<a href="https://github.com/Minhhieu1001">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhhieu1001&repo=career-connect&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+<!-- Project Card 1: Career Connect Backend -->
+<a href="https://github.com/khongtam12/career-connect-backend">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongtam12&repo=career-connect-backend&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 </a>
 &nbsp;
-<!-- Project Card 2: ZELO OTT -->
-<a href="https://github.com/Minhhieu1001">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhhieu1001&repo=zelo-ott&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+<!-- Project Card 2: Career Connect Frontend -->
+<a href="https://github.com/khongtam12/career-connect-frontend">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongtam12&repo=career-connect-frontend&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+</a>
+
+<br/><br/>
+
+<!-- Project Card 3: ZELO -->
+<a href="https://github.com/thienper/ZELO">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thienper&repo=ZELO&theme=radical&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 </a>
 
 </div>
@@ -116,6 +123,10 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 ### 🏥 Career Connect
 > Recruitment platform built with **Spring Boot** and **Microservices Architecture**
 
+<p>
+  <a href="https://github.com/khongtam12/career-connect-backend"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/khongtam12/career-connect-frontend"><img src="https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -140,6 +151,10 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 ### 💬 ZELO OTT
 > Real-time messaging platform supporting **Web** and **Mobile**
 
+<p>
+  <a href="https://github.com/thienper/ZELO"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://thienper.online/signin"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
