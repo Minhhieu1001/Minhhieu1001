@@ -34,13 +34,12 @@ name: Hieu Minh Pham
 role: Software Engineering Student | Backend / Fullstack Developer
 location: Ho Chi Minh City, Vietnam 🇻🇳
 education: Industrial University of Ho Chi Minh City (IUH)
-current_focus: "Building Dental Clinic Management System"
 interests:
   - Microservices Architecture
   - Real-time Communication Systems
   - Cloud-Native Development
   - System Design & Scalability
-life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
+life_motto: "Code is like humor. When you have to explain it, it's bad." 
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -49,7 +48,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 
 <div align="center">
 
-### 🔥 Backend & Frameworks
+###  Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
@@ -58,7 +57,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### 🎨 Frontend & UI
+###  Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -68,7 +67,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
 </p>
 
-### 🗄️ Databases & Messaging
+###  Databases & Messaging
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -76,7 +75,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
 </p>
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -91,7 +90,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -120,7 +119,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Career Connect
+###  Career Connect
 > Recruitment platform built with **Spring Boot** and **Microservices Architecture**
 
 <p>
@@ -138,17 +137,17 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 </p>
 
 **Highlights:**
-- 📋 Job posting and recruitment management
-- 📄 Application and CV processing system
-- 💬 Real-time chat & notifications (WebSocket/STOMP)
-- 🤖 AI-assisted recruitment support
-- 🔗 Microservices with OpenFeign communication
-- 📱 Responsive web interface
+-  Job posting and recruitment management
+-  Application and CV processing system
+-  Real-time chat & notifications (WebSocket/STOMP)
+-  AI-assisted recruitment support
+-  Microservices with OpenFeign communication
+-  Responsive web interface
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 ZELO OTT
+###  ZELO OTT
 > Real-time messaging platform supporting **Web** and **Mobile**
 
 <p>
@@ -166,12 +165,12 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 </p>
 
 **Highlights:**
-- 🔄 Real-time 1-to-1 and group messaging
-- 📷 Text, image, file, video & voice messages
-- 🔐 JWT authentication & authorization
-- ☁️ Media management with Cloudinary
-- 👥 Friend management & conversations
-- 📱 Responsive UI for Web & Mobile
+-  Real-time 1-to-1 and group messaging
+-  Text, image, file, video & voice messages
+-  JWT authentication & authorization
+-  Media management with Cloudinary
+-  Friend management & conversations
+-  Responsive UI for Web & Mobile
 
 </td>
 </tr>
@@ -179,7 +178,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -210,7 +209,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Minhhieu1001&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -218,7 +217,7 @@ life_motto: "Code is like humor. When you have to explain it, it's bad." 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center">
   <a href="mailto:hieuminhpham1001@gmail.com">
